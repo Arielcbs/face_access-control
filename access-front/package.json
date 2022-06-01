@@ -27,7 +27,7 @@
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "resize-img": "^2.0.0",
-    "sharp": "^0.23.2"
+    "sharp": "^0.30.5"
   },
   "scripts": {
     "start": "react-scripts start",
